@@ -1,0 +1,54 @@
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\GameMenu.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\GamePlay.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\Intro.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\laser.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\Meow.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\meteor.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\Die.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\Scores.txt
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\STARS.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\TeamWork.exe.config
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\TeamWork.exe
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\TeamWork.pdb
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\obj\Debug\TeamWork.csproj.AssemblyReference.cache
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\obj\Debug\TeamWork.csproj.CoreCompileInputs.cache
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\obj\Debug\TeamWork.exe
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\obj\Debug\TeamWork.pdb
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\Logo.wav
+C:\Users\baole\Documents\GitHub\Chicken-War\Game file\bin\Debug\Resources\Name.txt
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\GameMenu.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\GamePlay.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\Intro.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\laser.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\Logo.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\Meow.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\meteor.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\Die.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\Name.txt
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\Scores.txt
+D:\Chicken-War-BAO\Game file\bin\Debug\Resources\STARS.wav
+D:\Chicken-War-BAO\Game file\bin\Debug\TeamWork.exe.config
+D:\Chicken-War-BAO\Game file\bin\Debug\TeamWork.exe
+D:\Chicken-War-BAO\Game file\bin\Debug\TeamWork.pdb
+D:\Chicken-War-BAO\Game file\obj\Debug\TeamWork.csproj.AssemblyReference.cache
+D:\Chicken-War-BAO\Game file\obj\Debug\TeamWork.csproj.CoreCompileInputs.cache
+D:\Chicken-War-BAO\Game file\obj\Debug\TeamWork.exe
+D:\Chicken-War-BAO\Game file\obj\Debug\TeamWork.pdb
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\GameMenu.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\GamePlay.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\Intro.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\laser.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\Logo.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\Meow.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\meteor.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\Die.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\Name.txt
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\Scores.txt
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\Resources\STARS.wav
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\TeamWork.exe.config
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\TeamWork.exe
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\bin\Debug\TeamWork.pdb
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.exe
+C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.pdb
