@@ -373,10 +373,14 @@ namespace TeamWork.Objects
                     Printing.DrawAt(this.Point.X - 7, this.Point.Y, ' ');
                     Printing.DrawAt(this.Point.X + 5, this.Point.Y, ' ');
                     Printing.DrawAt(this.Point.X - 5, this.Point.Y, ' ');
+                    Engine.Player.Print();
                     // kiểm tra va chạm
                     if (Engine.Player.ShipCollided(this.Point) ||
-                        Engine.Player.ShipCollided(Point.X + 1, Point.Y) ||
-                        Engine.Player.ShipCollided(Point.X + 2, Point.Y))
+                        Engine.Player.ShipCollided(Point.X + 7, Point.Y) ||
+                        Engine.Player.ShipCollided(Point.X - 7, Point.Y) ||
+                        Engine.Player.ShipCollided(Point.X + 5, Point.Y) ||
+                        Engine.Player.ShipCollided(Point.X -5 , Point.Y)) 
+
                     {
                         // Nếu có va chạm, đặt lifeOnScreen của đối tượng này thành 0
                         this._lifeOnScreen = 0;
@@ -390,6 +394,7 @@ namespace TeamWork.Objects
                     #region Rocket Clear
 
                     Printing.DrawAt(this.Point, "  ");
+                    Engine.Player.Print();
                     if (Engine.Player.ShipCollided(this.Point))
                     {
                         this._lifeOnScreen = 0;

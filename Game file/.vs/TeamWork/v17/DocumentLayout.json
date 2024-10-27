@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,23 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\Player.cs",
-              "RelativeDocumentMoniker": "Player\\Player.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\Player.cs",
-              "RelativeToolTip": "Player\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:56:52.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Menu.cs",
               "RelativeDocumentMoniker": "Field\\Menu.cs",
@@ -110,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Printing.cs",
               "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Printing.cs",
               "RelativeDocumentMoniker": "Field\\Printing.cs",
@@ -126,9 +114,9 @@
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Engine.cs",
               "RelativeDocumentMoniker": "Field\\Engine.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Engine.cs",
-              "RelativeToolTip": "Field\\Engine.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwEkAAAAjAAAA",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Engine.cs*",
+              "RelativeToolTip": "Field\\Engine.cs*",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwFgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T06:56:52.679Z",
               "EditorCaption": ""
@@ -171,15 +159,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Boss.cs",
               "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\Boss.cs",
               "RelativeDocumentMoniker": "Objects\\Boss.cs",
               "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\Boss.cs",
               "RelativeToolTip": "Objects\\Boss.cs",
-              "ViewState": "AQIAANoAAAAAAAAAAAAkwBIBAAAAAAAA",
+              "ViewState": "AQIAANoAAAAAAAAAAAAkwBEBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:56:52.682Z"
+              "WhenOpened": "2024-10-26T06:56:52.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -207,15 +196,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BossObject.cs",
               "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\BossObject.cs",
               "RelativeDocumentMoniker": "Objects\\BossObject.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\BossObject.cs",
-              "RelativeToolTip": "Objects\\BossObject.cs",
-              "ViewState": "AQIAACIBAAAAAAAAAAAcwIgBAAAaAAAA",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\BossObject.cs*",
+              "RelativeToolTip": "Objects\\BossObject.cs*",
+              "ViewState": "AQIAAKEBAAAAAAAAAAAAANcBAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:56:52.684Z"
+              "WhenOpened": "2024-10-26T06:56:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Player\\Player.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\Player.cs",
+              "RelativeToolTip": "Player\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:56:52.205Z"
             },
             {
               "$type": "Document",
