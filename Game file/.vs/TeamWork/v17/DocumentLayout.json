@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\",
+  "WorkspaceRootPath": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|c:\\users\\hoang\\downloads\\stellar war\\stellar-war\\game file\\field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\field\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|c:\\users\\hoang\\downloads\\project\\stellar-war\\game file\\field\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\objects\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\bossobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\objects\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\objects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\objects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:objects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\field\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\field\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:field\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\resources\\scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\resources\\scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:resources\\scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\resources\\name.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\resources\\name.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:resources\\name.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\resources\\meteor.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\resources\\meteor.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:resources\\meteor.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\resources\\stars.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\resources\\stars.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:resources\\stars.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\player\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\player\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3FE3D-F979-40B6-B147-A3EA4EA49591}|TeamWork.csproj|solutionrelative:player\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\TeamWork.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\TeamWork.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\TeamWork.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
@@ -82,15 +82,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Player\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\Player.cs",
               "RelativeDocumentMoniker": "Player\\Player.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\Player.cs",
               "RelativeToolTip": "Player\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,24 +98,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Menu.cs",
               "RelativeDocumentMoniker": "Field\\Menu.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Menu.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Menu.cs",
               "RelativeToolTip": "Field\\Menu.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADAAAAANAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:56:52.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T06:56:52.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Printing.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Printing.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Printing.cs",
               "RelativeDocumentMoniker": "Field\\Printing.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Printing.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Printing.cs",
               "RelativeToolTip": "Field\\Printing.cs",
               "ViewState": "AQIAALIAAAAAAAAAAAAQwMQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,23 +122,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Engine.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Engine.cs",
               "RelativeDocumentMoniker": "Field\\Engine.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Engine.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Engine.cs",
               "RelativeToolTip": "Field\\Engine.cs",
-              "ViewState": "AQIAAN4AAAAAAAAAAADwv2UAAABIAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:56:52.679Z"
+              "WhenOpened": "2024-10-26T06:56:52.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Name.txt",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\Name.txt",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\Name.txt",
               "RelativeDocumentMoniker": "Resources\\Name.txt",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\Name.txt",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\Name.txt",
               "RelativeToolTip": "Resources\\Name.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -149,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Program.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\Entity.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\Entity.cs",
               "RelativeDocumentMoniker": "Objects\\Entity.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\Entity.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\Entity.cs",
               "RelativeToolTip": "Objects\\Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Boss.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\Boss.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\Boss.cs",
               "RelativeDocumentMoniker": "Objects\\Boss.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\Boss.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\Boss.cs",
               "RelativeToolTip": "Objects\\Boss.cs",
               "ViewState": "AQIAANoAAAAAAAAAAAAkwBIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Scores.txt",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\Scores.txt",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\Scores.txt",
               "RelativeDocumentMoniker": "Resources\\Scores.txt",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\Scores.txt",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\Scores.txt",
               "RelativeToolTip": "Resources\\Scores.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -197,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\GameObject.cs",
               "RelativeDocumentMoniker": "Objects\\GameObject.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\GameObject.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\GameObject.cs",
               "RelativeToolTip": "Objects\\GameObject.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAAwAgBAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BossObject.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\BossObject.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\BossObject.cs",
               "RelativeDocumentMoniker": "Objects\\BossObject.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Objects\\BossObject.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Objects\\BossObject.cs",
               "RelativeToolTip": "Objects\\BossObject.cs",
               "ViewState": "AQIAACIBAAAAAAAAAAAcwIgBAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Point2D.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Point2D.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Point2D.cs",
               "RelativeDocumentMoniker": "Field\\Point2D.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Field\\Point2D.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Field\\Point2D.cs",
               "RelativeToolTip": "Field\\Point2D.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "TeamWork.exe",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe",
               "RelativeDocumentMoniker": "bin\\Debug\\TeamWork.exe",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe",
               "RelativeToolTip": "bin\\Debug\\TeamWork.exe",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
               "WhenOpened": "2024-10-26T06:56:52.701Z"
@@ -244,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "meteor.wav",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\meteor.wav",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\meteor.wav",
               "RelativeDocumentMoniker": "Resources\\meteor.wav",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\meteor.wav",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\meteor.wav",
               "RelativeToolTip": "Resources\\meteor.wav",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002865|",
               "WhenOpened": "2024-10-26T06:56:52.702Z"
@@ -255,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "TeamWork.pdb",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.pdb",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.pdb",
               "RelativeDocumentMoniker": "bin\\Debug\\TeamWork.pdb",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.pdb",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.pdb",
               "RelativeToolTip": "bin\\Debug\\TeamWork.pdb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
               "WhenOpened": "2024-10-26T06:56:52.703Z"
@@ -266,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "STARS.wav",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\STARS.wav",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\STARS.wav",
               "RelativeDocumentMoniker": "Resources\\STARS.wav",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Resources\\STARS.wav",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Resources\\STARS.wav",
               "RelativeToolTip": "Resources\\STARS.wav",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002865|",
               "WhenOpened": "2024-10-26T06:56:52.703Z"
@@ -277,9 +277,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "TeamWork.exe.config",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe.config",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe.config",
               "RelativeDocumentMoniker": "bin\\Debug\\TeamWork.exe.config",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe.config",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\bin\\Debug\\TeamWork.exe.config",
               "RelativeToolTip": "bin\\Debug\\TeamWork.exe.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -289,9 +289,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Player\\IPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\IPlayer.cs",
               "RelativeDocumentMoniker": "Player\\IPlayer.cs",
-              "ToolTip": "C:\\Users\\hoang\\Downloads\\Stellar War\\Stellar-War\\Game file\\Player\\IPlayer.cs",
+              "ToolTip": "C:\\Users\\hoang\\Downloads\\project\\Stellar-War\\Game file\\Player\\IPlayer.cs",
               "RelativeToolTip": "Player\\IPlayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -52,3 +52,21 @@ C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.cs
 C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.csproj.CoreCompileInputs.cache
 C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.exe
 C:\Users\hoang\Downloads\Stellar War\Stellar-War\Game file\obj\Debug\TeamWork.pdb
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\GameMenu.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\GamePlay.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\Intro.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\laser.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\Logo.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\Meow.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\meteor.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\Die.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\Name.txt
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\Scores.txt
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\Resources\STARS.wav
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\TeamWork.exe.config
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\TeamWork.exe
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\bin\Debug\TeamWork.pdb
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\obj\Debug\TeamWork.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\obj\Debug\TeamWork.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\obj\Debug\TeamWork.exe
+C:\Users\hoang\Downloads\project\Stellar-War\Game file\obj\Debug\TeamWork.pdb

@@ -98,7 +98,10 @@ namespace TeamWork.Field
 
             ProjectileMoveAndPrint(); // Di chuyển và hiển thị đạn (thiên thạch, đạn của kẻ địch)
             ProjectileCollisionCheck(); // Kiểm tra va chạm
-            ShipCollisionBoss(boss.Point.X, boss.Point.Y);
+            if (BossActive == true)
+            {
+                ShipCollisionBoss(boss.Point.X, boss.Point.Y);
+            }
             if (BossActive) //Nếu boss đang hoạt động, gọi phương thức AI của nó
             {
                 DrawAndMoveMeteor();
