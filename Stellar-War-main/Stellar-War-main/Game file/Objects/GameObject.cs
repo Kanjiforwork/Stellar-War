@@ -30,8 +30,6 @@ namespace TeamWork.Objects
         public GameObject()
         {
             base.Speed = 1;
-            /*  lastFireTime = DateTime.Now; // Khởi tạo thời gian bắn cuối cùng
-       IsCharging = false; // Khởi tạo là chưa sạc   */
         }
 
 
@@ -131,9 +129,9 @@ namespace TeamWork.Objects
         private int projectileChance = Engine.Rnd.Next(20, 50); // Cơ hội ngẫu nhiên để kẻ địch bắn đạn
 
         public bool GotHit = false; // Công tắc bật/tắt hỗ trợ hiệu ứng nổ
-                                    /// <summary>
-                                    /// In đối tượng dựa trên loại của nó
-                                    /// </summary>
+        /// <summary>
+        /// In đối tượng dựa trên loại của nó
+        /// </summary>
         public void PrintObject()
         {
             switch (objectType)
@@ -443,7 +441,7 @@ namespace TeamWork.Objects
                     if (!this.GotHit)
                     {
                         Printing.DrawAt(this.Point.X + 1, Point.Y - 2, @"███", ConsoleColor.DarkMagenta);
-                        Printing.DrawAt(this.Point.X, Point.Y - 1 , @"████", ConsoleColor.Magenta);
+                        Printing.DrawAt(this.Point.X, Point.Y - 1, @"████", ConsoleColor.Magenta);
                         Printing.DrawAt(this.Point.X, Point.Y, @"██", ConsoleColor.DarkMagenta);
                     }
                     else
@@ -459,7 +457,7 @@ namespace TeamWork.Objects
                     if (!this.GotHit)
                     {
                         Printing.DrawAt(this.Point.X + 1, Point.Y - 2, @"██", ConsoleColor.DarkGray);
-                        Printing.DrawAt(this.Point.X, Point.Y - 1 , @"████", ConsoleColor.Gray);
+                        Printing.DrawAt(this.Point.X, Point.Y - 1, @"████", ConsoleColor.Gray);
                         Printing.DrawAt(this.Point.X, Point.Y, @"███", ConsoleColor.DarkGray);
                     }
                     else
@@ -970,7 +968,7 @@ namespace TeamWork.Objects
                     // Shape:
                     //  (.)ABC
                     //  ....DEFGH
-                   
+
                     if (((x >= this.Point.X && x <= this.Point.X + 4) && (y == this.Point.Y)) ||
      ((x >= this.Point.X && x <= this.Point.X + 3) && (y == this.Point.Y - 1)))
                     {
@@ -983,7 +981,7 @@ namespace TeamWork.Objects
                     //   ..A
                     //   BCDEF
                     //   .G.
-                 
+
                     if (((x >= this.Point.X && x <= this.Point.X + 4) && (y == this.Point.Y)) ||
          ((x >= this.Point.X + 1 && x <= this.Point.X + 4) && (y == this.Point.Y - 1)) ||
          ((x >= this.Point.X && x <= this.Point.X + 2) && (y == this.Point.Y + 1)))
@@ -997,10 +995,10 @@ namespace TeamWork.Objects
                     //  ..A
                     //  BCDEF
                     //  .G.
-                   
-                    if (((x >= this.Point.X && x <= this.Point.X + 4) && (y == this.Point.Y)) ||
-        ((x >= this.Point.X + 1 && x <= this.Point.X + 3) && (y == this.Point.Y - 1)) ||
-        ((x >= this.Point.X && x <= this.Point.X + 3) && (y == this.Point.Y + 1)))
+
+                    if (((x >= this.Point.X && x <= this.Point.X + 2) && (y == this.Point.Y)) ||
+                    ((x >= this.Point.X && x <= this.Point.X + 3) && (y == this.Point.Y - 1)) ||
+                    ((x >= this.Point.X + 1 && x <= this.Point.X + 2) && (y == this.Point.Y + -2)))
                     {
                         return true;
                     }
